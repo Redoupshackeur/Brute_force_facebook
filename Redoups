@@ -1,6 +1,0 @@
-
-rm -rf lite
-git clone https://github.com/XNX-XNX/Redoups.git
-Is
-Cd Redoups_cloner
-Python Red0ups.py
